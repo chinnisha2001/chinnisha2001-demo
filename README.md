@@ -1,2 +1,3 @@
 # chinnisha2001-demo
-This is my git first repository
+This is my git first repository. 
+Author-shaik chinnisha
